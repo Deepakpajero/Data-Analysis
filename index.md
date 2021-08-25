@@ -1,9 +1,8 @@
-## Welcome to GitHub Pages
+## What is Data Analysis
 
-You can use the [editor on GitHub](https://github.com/Deepakpajero/Data-Analysis/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Data Analysis is the process of systematically applying statistical and/or logical techniques to describe and illustrate, condense and recap, and evaluate data. ... An essential component of ensuring data integrity is the accurate and appropriate analysis of research findings.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
+Data Analysis involves  a process of inspecting, cleansing, transforming, and modeling data with the goal of discovering useful information, informing conclusions, and supporting decision-making.
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
