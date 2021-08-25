@@ -1,6 +1,6 @@
 ## What is Data Analysis
 
-Data Analysis is the process of systematically applying statistical and/or logical techniques to describe and illustrate, condense and recap, and evaluate data. ... An essential component of ensuring data integrity is the accurate and appropriate analysis of research findings.
+Data Analysis is the process of systematically applying statistical and/or logical techniques to describe and illustrate, condense and recap, and evaluate data. An essential component of ensuring data integrity is the accurate and appropriate analysis of research findings.
 
 Data Analysis involves  a process of inspecting, cleansing, transforming, and modeling data with the goal of discovering useful information, informing conclusions, and supporting decision-making.
 ### Markdown
